@@ -1,1 +1,1 @@
-discordbot: python discordbot.py
+discordbot: python python_lesson.py
